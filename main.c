@@ -4,7 +4,7 @@
 
 int main()
 {
-	char y=12;
+	char develop=77;
 	/*develop branch*/
 	int z = x+1;
 	int y = x+z;
