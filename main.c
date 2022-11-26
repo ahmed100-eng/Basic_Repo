@@ -4,7 +4,7 @@
 
 int main()
 {
-	int x=10;
+	char master = 88;
 	/*develop branch*/
 	int z = x+1;
 	int y = x+z;
